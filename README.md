@@ -1,9 +1,12 @@
 🌱 IoT-Enabled Smart Soil Moisture Monitoring and Irrigation Decision Support System
+
+
 📌 Project Overview
 
 India is one of the world’s most agrarian economies, where many farmers rely on rainfall and traditional irrigation practices to manage crop water needs. These approaches often lead to inefficient water usage, over-irrigation, and reduced crop yields, particularly in water-stressed and semi-arid regions.
 
 This project designs an IoT-enabled Smart Soil Moisture Monitoring and Irrigation Decision Support System that leverages real-world sensor data and machine learning to support data-driven irrigation decisions. The system monitors soil moisture levels, forecasts future moisture trends using time-series models, and provides actionable insights to optimize irrigation schedules.
+
 
 🎯 Objectives
 
@@ -17,6 +20,8 @@ Visualize insights using a Tableau Public dashboard
 
 Demonstrate practical application of IoT and ML concepts
 
+
+
 📂 Dataset
 
 Source: Kaggle – Soil Moisture Data from Field-Scale Sensor Network
@@ -24,6 +29,8 @@ Source: Kaggle – Soil Moisture Data from Field-Scale Sensor Network
 Type: Real-world IoT sensor data
 
 Description: Time-stamped soil moisture readings collected from multiple field-deployed sensors, forming a multivariate time-series dataset.
+
+
 
 🧠 Machine Learning Approach
 
@@ -34,6 +41,8 @@ Time-Series Forecasting to predict future soil moisture levels using historical 
 Deep Learning Analysis to support irrigation decision-making based on soil moisture patterns
 
 Model performance is evaluated using appropriate regression and classification metrics.
+
+
 
 🏗️ IoT System Architecture
 
@@ -50,6 +59,8 @@ Cloud-based machine learning analytics
 A visualization layer for decision support
 
 A detailed IoT system architecture diagram is included in the project report.
+
+
 
 📊 Dashboard
 
